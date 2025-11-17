@@ -25,10 +25,10 @@ If using SQL Server instead of LocalDB, update:
 Data Source=YOUR_SERVER_NAME;Initial Catalog=AppointmentDB;Integrated Security=True;
 ```
 ### 3️)Run the Project in Visual Studio
-AppointmentPortal.zip — download and extract
-Open the project in Visual Studio.
-Right-click Default.aspx → Set as Start Page.
-Press F5 to run the application.
+1. AppointmentPortal.zip — download and extract
+2. Open the project in Visual Studio.
+3. Right-click Default.aspx → Set as Start Page.
+4. Press F5 to run the application.
 
 Use the navigation buttons to:
 
